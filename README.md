@@ -1,6 +1,6 @@
 # Towards a better Whiteboard Interview
 
-Repo for 'Towards a better Whiteboard Interview' presentation at NHDNUG 16AUG2018
+Repo for 'Towards a better Whiteboard Interview' presentation at [NHDNUG](https://nhdnug.org) 16AUG2018
 
 ## Contents
 
