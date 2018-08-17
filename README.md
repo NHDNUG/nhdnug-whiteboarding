@@ -13,7 +13,7 @@ Repo for 'Towards a better Whiteboard Interview' presentation at NHDNUG 16AUG201
 
 If you have any questions, feel free to email them to me at: [daniel@scheufler.io](mailto:daniel@scheufler.io)
 
-Alternatively if you found this content interesting feel free to check on my blog for more: [daniel.scheufler.io](https://daniel.scheufler.io)
+Alternatively if you found this content interesting feel free to check on my blog for more: [daniel.scheufler.io](http://daniel.scheufler.io)
 
 ## Resources
 
@@ -51,4 +51,4 @@ Alternatively if you found this content interesting feel free to check on my blo
 
 ## Minor Note
 
-One of our attendees kindly informed me that I had mis-labels one of my examples. Specifically Pretty Good Pricacy. I have since corrected the labeling. I apologize for any confusion that may have cuased.
+One of our attendees kindly informed me that I had mis-labeled one of my examples. Specifically Pretty Good Privacy. I have since corrected the labeling. I apologize for any confusion this may have caused.
